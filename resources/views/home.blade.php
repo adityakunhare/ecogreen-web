@@ -120,13 +120,12 @@
                 <div class="content">
                     <h2>Together we can make a difference</h2>
                     <div class="text">
-                        <p>When you give to Our Ecogreen, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts That Give More, our professional staff works hard every day <br>to ensure every dollar has impact for the cause of your choice. </p>
+                        <p> SSK GREEN under guidance of EKI Energy Services Ltd. (EKI) – previously recognized as EnKing International – is a pioneer in the global climate sector and a leading developer and supplier of carbon credits worldwide. EKI which is Headquartered in Indore, the company is proudly listed on the Bombay Stock Exchange (BSE). </p>
                     </div>
-                    <h4>Our Partner</h4>
                     <div class="text">
-                        <p>We partner with over 320 amazing projects worldwide, and have given over $150 million in cash and product grants to other groups since 2011. We also operate our own dynamic suite of Signature Programs.</p>
+                        <p> With over 15 years of experience, EKI has established itself as a global market leader through its unmatched expertise in climate change solutions, carbon offset programs, and carbon asset management. The company operates across 16+ countries and serves more than 3,500 clients in over 40 nations. To date, EKI has facilitated the supply of 200+ million carbon offsets worldwide. </p>
                     </div>
-                    <div class="link"><a href="#" class="thm-btn style-2">Join With Us</a></div>
+                    <div class="link"><a href="{{ route('about') }}" class="thm-btn style-2">Know more</a></div>
                 </div>
             </div>
         </div>
