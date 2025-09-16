@@ -7,7 +7,7 @@
                 
                 <div class="tp-caption  tp-resizeme" 
                     data-x="left" data-hoffset="15" 
-                    data-y="top" data-voffset="260" 
+                    data-y="top" data-voffset="300" 
                     data-transform_idle="o:1;"         
                     data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
                     data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
@@ -17,9 +17,8 @@
                     data-responsive_offset="on"
                     data-start="700">
                     <div class="slide-content-box">
-                        <h1>Let’s<span>... go With ECO green</span></h1>
-                        <h3>to get our global clean</h3>
-                        <p>Great explorer of the truth, the master-builder of human happiness <br>not know how to pursue pleasure rationally...  </p>
+                        <h2>Net-Zero Future AWAITS YOU </h2>
+                        <h3>start your climate journey with US</h3>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
@@ -39,8 +38,8 @@
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
-                    data-x="left" data-hoffset="200" 
-                    data-y="top" data-voffset="480" 
+                    data-x="left" data-hoffset="100" 
+                    data-y="top" data-voffset="300" 
                     data-transform_idle="o:1;"                         
                     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
                     data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
@@ -48,11 +47,7 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2600">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn style-3" href="cause.html">Get Involved</a>     
-                        </div>
-                    </div>
+                    
                 </div>
             </li>
             
@@ -60,7 +55,7 @@
                 <img src="images/slider/3.jpg"  alt="" width="1920" height="888" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
                 
                 <div class="tp-caption  tp-resizeme" 
-                    data-x="left" data-hoffset="500" 
+                    data-x="left" data-hoffset="100" 
                     data-y="top" data-voffset="260" 
                     data-transform_idle="o:1;"         
                     data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
@@ -71,14 +66,13 @@
                     data-responsive_offset="on"
                     data-start="700">
                     <div class="slide-content-box">
-                        <h1>Save<span>...World By Planting</span></h1>
-                        <h3>trees Your Surrounding</h3>
-                        <p>Great explorer of the truth, the master-builder of human happiness <br>not know how to pursue pleasure rationally...  </p>
+                        <h2>Your CARBON REMOVAL Certificate</h2>
+                        <h3>One step away</h3>
                     </div>
                 </div>
                 <div class="tp-caption tp-resizeme" 
-                    data-x="left" data-hoffset="500" 
-                    data-y="top" data-voffset="480" 
+                    data-x="left" data-hoffset="100" 
+                    data-y="top" data-voffset="440" 
                     data-transform_idle="o:1;"                         
                     data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
                     data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
@@ -102,16 +96,14 @@
                     data-splitout="none" 
                     data-responsive_offset="on"
                     data-start="2600">
-                    <div class="slide-content-box">
-                        <div class="button">
-                            <a class="thm-btn style-3" href="cause.html">Get Involved</a>     
-                        </div>
-                    </div>
+                    
                 </div>
             </li>
         </ul>
     </div>
 </section>
+
+
 
 <section class="about sec-padd2">
     <div class="container">
@@ -141,6 +133,74 @@
         
     </div>
 </section>
+
+<section class="gallery sec-padd3 style-2 default-gallery" style="background-image: url(images/background/8.jpg)";>
+    <div class="container">
+        <div class="section-title">
+            <h2>Carbon Credit Programmes and Accounting Standards</h2>
+        </div>
+        <hr>
+        <div class="row filter-layout">
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Wild-Animals Pollution Water">
+                <div class="item">
+                    <div class="content center">
+                        <h4>Clean Development Mechanism</h4>
+                        <p>CDM</p>
+                    </div>
+                    <div class="content center">
+                        <h4>Global Carbon Council</h4>
+                        <p>GCC</p>
+                    </div>
+                      <div class="content center">
+                        <h4>The Tradable Instrument for Global Renewables</h4>
+                        <p>TIGR</p>
+                    </div>
+                    <div class="content center">
+                      <h4>For Carbon Footprint Assessment</h4>
+                      <p>GHG Protocol</p>
+                    </div>
+                </div>
+            </article> 
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Wild-Animals Pollution Ecology Recycling">
+                <div class="item">
+                    
+                    <div class="content center">
+                        <h4>Verified Carbon Standard</h4>
+                        <p>VSC</p>
+                    </div>
+                    <div class="content center">
+                        <h4>Programme of Activities</h4>
+                        <p>POA</p>
+                    </div>
+                    <div class="content center">
+                        <h4>Airport Carbon Accreditation (up to level 4+)</h4>
+                        <p>ACA</p>
+                    </div>
+                </div>
+            </article> 
+            <article class="col-md-4 col-sm-6 col-xs-12 filter-item Wild-Animals Pollution Ecology Recycling">
+                <div class="item">
+                    <div class="content center">
+                        <h4>Gold Standard</h4>
+                        <p>GS CER/VER</p>
+                    </div>
+                    <div class="content center">
+                        <h4>International REC</h4>
+                        <p>IREC</p>
+                    </div>
+                    <div class="content center">
+                        <h4>ISO 14064:2010</h4>
+                        <p>ISO</p>
+                    </div>
+                </div>
+            </article>
+            
+        </div>
+
+    </div>
+</section>
+
+
 
 <section class="about sec-padd2">
   <div class="container">

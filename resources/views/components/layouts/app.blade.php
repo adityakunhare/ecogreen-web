@@ -26,7 +26,6 @@
 <div class="top-bar">
     <div class="container">
         <div class="clearfix">
-
             <ul class="float_left top-bar-info">
                 <li><i class="icon-phone-call"></i>Phone: (+91) 99939 72000</li>
                 <li><i class="icon-e-mail-envelope"></i>hotelkanchantilak@gmail.com</li>
@@ -50,16 +49,83 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="main-logo">
-                    <a href="index.html"><img height="40" src="images/logo/logo.png" alt=""></a>
+                    <a href="{{ route('home')  }}"><img height="40" src="images/logo/logo.png" alt=""></a>
                 </div>
             </div>
             <div class="col-md-9 menu-column">
                 <nav class="menuzord" id="main_menu">
                    <ul class="menuzord-menu">
                         <li><a href="{{ route('home') }}">Home</a></li>
-                        <li><a href="{{route('accAndRec')}}">Accreditation and Recognition</a> </li>
+                        <li><a href="{{route('whyUs')}}">Why us</a> </li>
                         <li><a href="{{route('about')}}">About us</a> </li>
-                        <li><a href="{{route('services')}}">Our services</a></li>
+                        <li><a href="#">Our services</a>
+                            {{-- <ul class="dropdown" style="left: 0px; display: none;"> --}}
+                                <section class="dropdown p-5 text-2xl font-bold" style="left: -1pxx; background-color:white;  position: absolute; z-index:3;">
+                                    <div class="container-fluid">
+                                    <div class="row " >
+                                    <!-- Column 1 -->
+                                    <div class="col-md-3 ">
+                                        <h6 class="font-bold text-dark text-2xl">
+                                            <a href="https://enkingint.org/sustainability-net-zero-services/" >SUSTAINABILITY & NET ZERO SERVICES </a>
+                                        </h6>
+                                        <ul class="list-unstyled">
+                                        <li><a href="https://enkingint.org/sustainability-net-zero-services/#aa1000" class="dropdown-item text-success p-3">AA1000 AS assurance providers by Accountability</a></li>
+                                        <li><a href="https://enkingint.org/sustainability-net-zero-services/#climate_change" class="dropdown-item text-success p-3">Climate Change Services</a></li>
+                                        <li><a href="https://enkingint.org/sustainability-net-zero-services/#esg_services" class="dropdown-item text-success p-3">Sustainability and ESG services</a></li>
+                                        <li><a href="https://enkingint.org/sustainability-net-zero-services/#supply_chain" class="dropdown-item text-success p-3">Sustainable supply chain services</a></li>
+                                        <li><a href="https://enkingint.org/sustainability-net-zero-services/#green_certification" class="dropdown-item text-success p-3">Green certification & resource efficiency services</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <!-- Column 2 -->
+                                    <div class="col-md-3">
+                                        <h6 class="font-bold text-dark text-2xl">
+                                            <a href="https://enkingint.org/climate-investments/" >CLIMATE INVESTMENTS</a>
+                                        </h6>
+                                        <ul class="list-unstyled">
+                                        <li><a href="https://enkingint.org/climate-investments/#Community-Based-Projects" class="dropdown-item text-success p-3">Community Based Projects</a></li>
+                                        <li><a href="https://enkingint.org/climate-investments/#Nature-Based-Solutions" class="dropdown-item text-success p-3">Nature-Based Solutions (NBS)</a></li>
+                                        <li><a href="https://enkingint.org/climate-investments/#ESCO-Energy-Efficiency-Projects" class="dropdown-item text-success p-3">ESCO Energy Efficiency Projects</a></li>
+                                        </ul>
+                                        <h6 class="font-bold text-dark mt-3 text-2xl">
+                                            <a href="https://enkingint.org/carbon-plastic-offsets-portfolio-management-services/"> OFFSETS PORTFOLIO MANAGEMENT SERVICES</a>
+                                        </h6>
+                                        <ul class="list-unstyled">
+                                        <li><a href="https://enkingint.org/offsets-portfolio-management-services/#Carbon-Offset" class="dropdown-item text-success p-2">Carbon Offset</a></li>
+                                        <li><a href="https://enkingint.org/offsets-portfolio-management-services/#Renewable-Energy" class="dropdown-item text-success p-2">Renewable Energy Attribute Certificates (EACs)</a></li>
+                                        <li><a href="https://enkingint.org/offsets-portfolio-management-services/#Plastic-Credits" class="dropdown-item text-success p-2" >EPR & Plastic Credits Projects</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <!-- Column 3 -->
+                                    <div class="col-md-3">
+                                        <h6 class="font-bold text-dark text-2xl">
+                                            <a href="https://enkingint.org/offsetting-to-achieve-carbon-neutrality/" >OFFSETTING TO ACHIEVE CARBON NEUTRALITY / NET ZERO EMISSIONS / PLASTIC NEUTRALITY</a>
+                                        </h6>
+                                        <ul class="list-unstyled">
+                                        <li><a href="https://enkingint.org/offsetting-to-achieve-carbon-neutrality/#Carbon-Avoidance-Projects" class="dropdown-item text-success p-3">Carbon Avoidance Projects</a></li>
+                                        <li><a href="https://enkingint.org/offsetting-to-achieve-carbon-neutrality/#Carbon-Removal-Projects" class="dropdown-item text-success p-3">Carbon Removal Projects</a></li>
+                                        <li><a href="https://enkingint.org/offsetting-to-achieve-carbon-neutrality/#Plastic-Credits-Projects" class="dropdown-item text-success p-3">Extended Producer Responsibilities (EPR) & Plastic Credits Projects</a></li>
+                                        <li><a href="https://enkingint.org/offsetting-to-achieve-carbon-neutrality/#Energy-Attribute-Certificates-Projects" class="dropdown-item text-success p-3">Green Power / Renewable Energy Attribute Certificates Projects</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <!-- Column 4 -->
+                                    <div class="col-md-3">
+                                        <h6 class="font-bold text-dark text-2xl">
+                                            <a href="https://enkingint.org/emission-compliance-carbon-markets-capacity-building-advisory/" >CARBON MARKETS CAPACITY BUILDING ADVISORY</a>
+                                        </h6>
+                                        <ul class="list-unstyled">
+                                        <li><a href="https://enkingint.org/carbon-markets-capacity-building-advisory/" class="dropdown-item text-success p-3">Operationalization of Article 6 of Paris Agreement</a></li>
+                                        <li><a href="https://enkingint.org/carbon-markets-capacity-building-advisory/" class="dropdown-item text-success p-3">Carbon Budgets & Stock-take</a></li>
+                                        <li><a href="https://enkingint.org/carbon-markets-capacity-building-advisory/" class="dropdown-item text-success p-3">Internationally Transferred Mitigation Outcomes (ITMO)</a></li>
+                                        </ul>
+                                    </div>
+                                    </div>
+                                </div>
+                                </section>
+                             {{-- </ul> --}}
+                        </li>
                         <li><a href="{{route('contact')}}">Contact us</a></li>
                     </ul>
                 </nav> 
@@ -100,7 +166,7 @@
                                 </div>
                                 <div class="widget-content">
                                     <ul class="list">
-                                        <li><a href="{{ route('accAndRec') }}">Accreditation and Recognition</a></li>
+                                        <li><a href="{{ route('whyUs') }}">Why us</a></li>
                                         <li><a href="{{ route('about') }}">About us</a></li>
                                         <li><a href="{{ route('services') }}">Our Services</a></li>
                                         <li><a href="{{ route('contact') }}">Contact us</a></li>

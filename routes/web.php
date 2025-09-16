@@ -6,9 +6,9 @@ Route::get('/', function () {
     return view('home');
 })->name('home');
 
-Route::get('accreditation-and-recognition', function () {
-    return view('accreditation');
-})->name('accAndRec');
+Route::get('why-us', function () {
+    return view('why-us');
+})->name('whyUs');
 
 Route::get('about-us', function () {
     return view('about');
