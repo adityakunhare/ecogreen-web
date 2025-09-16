@@ -143,7 +143,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .thm-color {
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -166,12 +166,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .thm-btn {
   position: relative;
-  background: #8dc63f;
+  background: #509148;
   font-size: 14px;
   line-height: 48px;
   border-radius: 25px;
   color: #ffffff;
-  border: 1px solid #8dc63f;
+  border: 1px solid #509148;
   text-transform: uppercase;
   font-weight: 700;
   display: inline-block;
@@ -180,19 +180,19 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .thm-btn:hover {
   background: transparent;
-  color: #8dc63f;
+  color: #509148;
   transition: all .5s cubic-bezier(0.4, 0, 1, 1);
 }
 
 .thm-btn.style-2 {
   background: transparent;
-  color: #8dc63f;
-  border-color: #8dc63f;
+  color: #509148;
+  border-color: #509148;
 }
 .thm-btn.style-2:hover {
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .thm-btn.style-3 {
@@ -202,7 +202,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .thm-btn.style-3:hover {
   background: #FFF;
-  color: #8dc63f;
+  color: #509148;
   border-color: #fff;
 }
 
@@ -242,7 +242,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     display: none;
     color: #fff;
     text-align: center;
-    background: #8dc63f;
+    background: #509148;
 }
 .scroll-top span:before {
   font-size: 27px;
@@ -297,7 +297,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .social-icon li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -347,7 +347,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .accordion .acc-btn.active {
-  border-color: #8dc63f;
+  border-color: #509148;
   border-bottom: 0px;
 }
 
@@ -410,7 +410,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .accordion-box .accordion .acc-btn .toggle-icon .minus:before {
     transition: all 0.3s ease 0s;
-    color: #8dc63f;
+    color: #509148;
     position: absolute;
     right: 0;
     top: 0;
@@ -428,7 +428,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .accordion-box .accordion .acc-content {
     color: #9c9c9c;
     background: #f7f7f7;
-    border: 1px solid #8dc63f;
+    border: 1px solid #509148;
     display: none;
     padding: 20px 20px;
     border-top: 0px;
@@ -465,12 +465,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .accordion-box.style-three .accordion .acc-btn .toggle-icon .plus:before {
     right: 11px;
     top: 6px;
-    color: #8dc63f;
+    color: #509148;
 }
 .accordion-box.style-three .accordion .acc-btn .toggle-icon .plus:before {
     right: 11px;
     top: 6px;
-    color: #8dc63f;
+    color: #509148;
 }
 
 /*============= default-form ===============*/
@@ -569,11 +569,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   outline: none !important;
 }
 .default-form  .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
-  background-color: #8dc63f;
+  background-color: #509148;
   color: #fff;
 }
 .default-form .form-control:focus {
-  border-color: #8dc63f;
+  border-color: #509148;
   box-shadow: none;
 }
 
@@ -584,7 +584,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   content: "\f107";
   font-family: FontAwesome;
   font-size: 16px;
-  color: #8dc63f;
+  color: #509148;
   width: 20px;
   right: 15px;
   top: 50%;
@@ -639,7 +639,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     color: #222;
 }
 .default-form .dropdown-menu>li>a:hover {
-    background-color: #8dc63f !important;
+    background-color: #509148 !important;
     color: #fff !important;
 }
 
@@ -668,7 +668,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .default-form .alert-success {
-    color: #8dc63f;
+    color: #509148;
     background: none;
     border: none;
     font-size: 18px;
@@ -703,7 +703,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .page_pagination li a.active,
 .page_pagination li a:hover {
   color:#fff;
-  background: #8dc63f;
+  background: #509148;
 }
 /*=======pagination style-2============*/
 .page_pagination2 {
@@ -723,7 +723,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: all 500ms ease;
 }
 .page_pagination2 .button a:hover{
-    color: #8dc63f;
+    color: #509148;
 }
 .page_pagination2 .button a i {
   display: inline-block;
@@ -745,7 +745,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: all 500ms ease 0s;
 }
 .page_pagination2 .icon-holder a:hover i{
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -807,7 +807,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 100px;
   background: #f2f2f2;
   padding:57px;
-  border: 3px solid #8dc63f;
+  border: 3px solid #509148;
   position: relative;
   z-index: 9999999;
 }
@@ -874,7 +874,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .chicklet-list :checked+label {
-    background: #8dc63f;
+    background: #509148;
     color: #f7f7f7;
     text-shadow: none;
 }
@@ -976,21 +976,21 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: relative;
   line-height: 48px;
   z-index: 999;
-  background: #f7f7f7;
+  background: #509148;
   padding: 6px 0;
 }
 
 
 
 .top-bar .top-bar-info li {
-  color: #999;
+  color: #ffffff;
   margin-right: 20px;
   display: inline-block;
   position: relative;
   top: 0px;
 }
 .top-bar .top-bar-info li i {
-    color: #8dc63f;
+    color: #ffffff;
     margin-right: 10px;
     font-size: 20px;
     position: relative;
@@ -1007,7 +1007,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .top-bar p {
   margin-top: 12px;
-  color: #999;
+  color: #ffffff;
 }
 .top-bar .social {
   display: inline-block;
@@ -1016,11 +1016,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .top-bar .social li a {
   margin: 0 8px;
-  color: #999;
+  color: #ffffff;
   font-size: 14px;
 }
 .top-bar .social li a:hover {
-  color: #8dc63f;
+  color: #509148;
   -webkit-transition: .5s ease-in-out;
   transition: .5s ease-in-out;
 }
@@ -1166,7 +1166,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .menuzord-menu > li:hover > a {
-    color: #8dc63f;
+    color: #509148;
 }
 .menuzord-menu > li:first-child a {
     padding-left: 0px;
@@ -1176,7 +1176,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     padding: 0 20px;
     min-width: 230px;
     background: #fff;
-    border-top: 3px solid #8dc63f;
+    border-top: 3px solid #509148;
     right: auto !important;
 }
 
@@ -1195,7 +1195,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .menuzord-menu ul.dropdown li:hover > a {
     padding-left: 0px;
     padding-right: 0px;
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease-in-out;
     font-size: 14px;
 }
@@ -1221,7 +1221,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   width: 100%;
   padding: 40px 30px 40px;
   background: #fff;
-  border-left: 3px solid #8dc63f;
+  border-left: 3px solid #509148;
 }
 
 .menuzord-menu ul.megamenu-dropdown {
@@ -1240,7 +1240,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .menuzord-menu ul.megamenu-dropdown li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -1292,12 +1292,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-section2 .item .lower-content h4 a:hover{
-  color:#8dc63f;
+  color:#509148;
   transition: all 300ms ease;
 }
 
 .event-section2 .item .lower-content .post-meta{
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   margin-bottom: 7px;
 }
@@ -1315,7 +1315,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .event-section2 .item .lower-content .default_link:hover {
   transition: .5s ease;
-  color: #8dc63f;
+  color: #509148;
 }
 .event-section2 .item .lower-content .default_link i {
   font-size: 11px;
@@ -1360,7 +1360,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .megamenu .post-info {
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   
 }
@@ -1388,7 +1388,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .nav_side_content .search_option>button {
   height: 40px;
   font-size: 15px;
-  color: #8dc63f;
+  color: #509148;
   border: 1px solid #e1e1e1;
   text-align: center;
   width: 40px;
@@ -1403,7 +1403,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     margin: 0;
     left: auto;
     right: 10px;
-    border-color: #8dc63f;
+    border-color: #509148;
     top: 54px;
 }
 .nav_side_content .search_option form input {
@@ -1426,7 +1426,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: absolute;
   top: 4px;
   right:5px;
-  color: #8dc63f;
+  color: #509148;
 }
 .nav_side_content .cart_select {
   border-left: 1px solid #ececec;
@@ -1569,7 +1569,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 45px;
 }
 .our-mission .default-title h3 span {
-  color: #8dc63f;
+  color: #509148;
 }
 
 .our-mission .content {
@@ -1603,7 +1603,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   text-align: center;
   border: 1px solid #f4f4f4;
   border-radius: 50%;
-  color: #8dc63f;
+  color: #509148;
   font-size: 40px;
   margin: 0 auto;
   line-height: 60px;
@@ -1611,7 +1611,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   overflow: hidden;
 }
 .our-mission .column:hover .icon-box {
-  border-color: #8dc63f;
+  border-color: #509148;
   transition: .5s ease;
 }
 
@@ -1626,7 +1626,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .our-mission .column:hover .icon-box:before {
-  background-color: #8dc63f;
+  background-color: #509148;
   transition: .5s ease;
 }
 .our-mission h4 {
@@ -1635,7 +1635,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .our-mission .column:hover h4 {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -1672,8 +1672,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .service .service-item:hover:before {
-  border-top-color: #8dc63f;
-  border-right-color: #8dc63f;
+  border-top-color: #509148;
+  border-right-color: #509148;
   transition: .5s ease;
 }
 .service .service-item .icon-box {
@@ -1687,7 +1687,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .service .service-item .icon-box span {
   position: relative;
-  color: #8dc63f;
+  color: #509148;
   font-size: 45px;
   transition: .5s ease;
 }
@@ -1713,13 +1713,13 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .service .service-item:hover .icon-box:before {
-  border-color: #8dc63f;
-  background: #8dc63f;
+  border-color: #509148;
+  background: #509148;
   transition: .5s ease;
 }
 
 .service .service-item:hover {
-  border-color: #8dc63f;
+  border-color: #509148;
   transition: .5s ease;
 }
 
@@ -1733,7 +1733,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin: 0;
   padding: 0;
   list-style: none;
-  border-left: 2px solid #8dc63f;
+  border-left: 2px solid #509148;
   margin-bottom: 50px;
 }
 .default-sidebar .service-catergory li {
@@ -1745,7 +1745,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .default-sidebar .service-catergory li.active {
-  background: #8dc63f;
+  background: #509148;
 }
 .default-sidebar .service-catergory li.active a {
   color: #fff;
@@ -1773,7 +1773,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-family: 'Roboto Slab', serif;
 }
 .default-sidebar .service-catergory li a:hover {
-  color: #8dc63f;
+  color: #509148;
 }
 .default-sidebar .service-catergory li.active a:hover {
   color: #fff;
@@ -1834,7 +1834,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .single-service .default-list li i {
   font-size: 14px;
-  color: #8dc63f;
+  color: #509148;
   margin-right: 10px;
 }
 
@@ -1875,9 +1875,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .tabs-style-one .tab-buttons .tab-btn.active-btn{
-  color: #8dc63f;
+  color: #509148;
   background: #ffffff;
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .tabs-style-one .tabs-content{
@@ -2020,7 +2020,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 16px;
 }
 .urgent-cause2 .content .donate span {
-  color: #8dc63f;
+  color: #509148;
 }
 .urgent-cause2 .content p {
   margin-bottom: 18px;
@@ -2032,7 +2032,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding: 0 20px;
   border: 0px;
   padding-right: 10px;
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
 }
 .urgent-cause2 .content .thm-btn i {
@@ -2042,17 +2042,17 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-left: 15px;
 }
 .urgent-cause2 .content .donator {
-  color: #8dc63f;
+  color: #509148;
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
   margin-top: 10px;
-  border-bottom: 1px solid #8dc63f;
+  border-bottom: 1px solid #509148;
   transition: .5s ease;
 }
 
 .urgent-cause2 .content:hover .donator {
-  color: #8dc63f;
-  border-color: #8dc63f;
+  color: #509148;
+  border-color: #509148;
   transition: .5s ease;
 }
 
@@ -2087,7 +2087,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .urgent-cause2 .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -2130,7 +2130,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   width:46px;
   border-radius: 5px;
   height:26px;
-  background:#8dc63f;
+  background:#509148;
   color:#ffffff;
   line-height:26px;
   font-size:13px;
@@ -2154,7 +2154,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-left:-4px;
   top:100%;
   border:4px solid transparent;
-  border-top:5px solid #8dc63f; 
+  border-top:5px solid #509148; 
 }
 
 
@@ -2253,7 +2253,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: absolute;
   left: 25px;
   top: 25px;
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
   font-family: 'Roboto Slab', serif;
   font-size: 14px;
@@ -2287,7 +2287,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 20px;
 }
 .urgent-cause .content .donate span {
-  color: #8dc63f;
+  color: #509148;
 }
 .urgent-cause .content p {
   margin-bottom: 18px;
@@ -2299,7 +2299,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding: 0 20px;
   border: 0px;
   padding-right: 10px;
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
 }
 .urgent-cause .content .thm-btn i {
@@ -2318,8 +2318,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .urgent-cause .content:hover .donator {
-  color: #8dc63f;
-  border-color: #8dc63f;
+  color: #509148;
+  border-color: #509148;
   transition: .5s ease;
 }
 
@@ -2354,7 +2354,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .urgent-cause .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -2405,7 +2405,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   bottom:15px;
   width:46px;
   height:26px;
-  background:#8dc63f;
+  background:#509148;
   color:#ffffff;
   line-height:26px;
   font-size:13px;
@@ -2429,7 +2429,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-left:-4px;
   top:100%;
   border:4px solid transparent;
-  border-top:5px solid #8dc63f; 
+  border-top:5px solid #509148; 
 }
 
 
@@ -2479,7 +2479,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .single-cause .list li i {
   padding-right: 10px;
-  color: #8dc63f;
+  color: #509148;
 }
 
 .single-cause .donator .img-box {
@@ -2523,7 +2523,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   color: #3F3E3E;
 }
 .single-cause .share .tag-box a {
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   transition: .3s ease;
   line-height: 30px;
@@ -2531,7 +2531,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-family: 'Open Sans', sans-serif;
 }
 .single-cause .share .tag-box a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .3s ease;
 }
 
@@ -2565,8 +2565,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .single-cause .share .social a:hover {
   color: #ffffff;
-  background: #8dc63f;
-  border-color: #8dc63f;
+  background: #509148;
+  border-color: #509148;
 }
 
 
@@ -2609,7 +2609,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 15px;
 }
 .fact-counter.style-1 .title h1 span {
-  color: #8dc63f;
+  color: #509148;
 }
 .fact-counter.style-1 .title p {
   color: #e6e6e5;
@@ -2638,7 +2638,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .fact-counter.style-1 .count-outer {
   font-size: 16px;
-  color: #8dc63f;
+  color: #509148;
   font-family: 'Roboto Slab', serif;
   margin-top: 40px;
   margin-bottom: 10px;
@@ -2696,7 +2696,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: relative;
   right: 5px;
   margin-bottom: 5px;
-  color: #8dc63f;
+  color: #509148;
   transition:all 500ms ease;
   -moz-transition:all 500ms ease;
   -webkit-transition:all 500ms ease;
@@ -2719,7 +2719,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position:relative;
   font-size: 18px;
   font-weight: 300;
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -2760,7 +2760,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .about .content h4 {
   font-size: 20px;
-  color: #8dc63f;
+  color: #509148;
   margin-bottom: 15px;
 }
 .about .content p {margin-bottom: 25px;}
@@ -2784,7 +2784,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .why-chooseus .item:hover {
-  border-color: #8dc63f;
+  border-color: #509148;
   transition: .5s ease;
 }
 .why-chooseus .inner-box {
@@ -2795,7 +2795,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: absolute;
   left: 0;
   top: -20px;
-  color: #8dc63f;
+  color: #509148;
   font-size: 50px;
 }
 
@@ -2806,7 +2806,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .why-chooseus .item:hover h4 {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -2963,7 +2963,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .gallery .overlay a:hover {
   background: #fff;
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 .gallery .content h4 {
@@ -2984,7 +2984,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .gallery .content p {
   font-size: 14px;
-  color: #8dc63f;
+  color: #509148;
 }
 
 .gallery .content .text p {
@@ -3041,8 +3041,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .post-filter li:hover span,
 .post-filter li.active span {
-  background: #8dc63f;
-  border-color: #8dc63f;
+  background: #509148;
+  border-color: #509148;
   transition: .5s ease;
   color: #fff;
 }
@@ -3095,7 +3095,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .single-gallery .share-project .social-share ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -3121,7 +3121,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .single-gallery .project-info-list li .icon-holder i {
   font-size: 14px;
-  color: #8dc63f;
+  color: #509148;
 }
 .single-gallery .project-info-list li .text-holder {}
 .single-gallery .project-info-list li .text-holder h5 {
@@ -3149,7 +3149,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .call-out {
-  background: #8dc63f;
+  background: #509148;
   padding: 5px 0 25px;
 }
 .call-out .logo {
@@ -3226,7 +3226,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   right: 15px;
   top: 15px;
   width: 55px;
-  background: #8dc63f;
+  background: #509148;
   font-size: 18px;
   font-weight: 700;
   line-height: 27px;
@@ -3238,7 +3238,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .event-style1 .item .date span {
   display: block;
-  color: #8dc63f;
+  color: #509148;
   background: #fff;
   margin-top: 5px;
   padding: 6px 0;
@@ -3265,12 +3265,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style1 .item .lower-content h4:hover{
-  color:#8dc63f;
+  color:#509148;
   transition: all 300ms ease;
 }
 
 .event-style1 .item .post-meta{
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   border-top: 1px solid rgba(244, 244, 244, 0.1);
   padding: 17px 19px;
@@ -3290,7 +3290,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .event-style1 .item .lower-content .default_link:hover {
   transition: .5s ease;
-  color: #8dc63f;
+  color: #509148;
 }
 .event-style1 .item .lower-content .default_link i {
   font-size: 11px;
@@ -3342,7 +3342,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     vertical-align: middle;
 }
 .event-style1 .item .img-holder .overlay .box .content a i {
-    background: #8dc63f;
+    background: #509148;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -3354,7 +3354,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style1 .item .img-holder .overlay .box .content a:hover i {
-    background: #8dc63f;
+    background: #509148;
 }
 
 
@@ -3385,7 +3385,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style1 .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -3437,7 +3437,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   top: 15px;
   width: 65px;
   height: 65px;
-  background: #8dc63f;
+  background: #509148;
   font-size: 14px;
   font-weight: 700;
   line-height: 20px;
@@ -3448,7 +3448,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .event-style2 .item .date span {
   display: block;
-  color: #8dc63f;
+  color: #509148;
   height: 55px;
   width: 55px;
   background: #fff;
@@ -3479,12 +3479,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style2 .item .lower-content h4:hover{
-  color:#8dc63f;
+  color:#509148;
   transition: all 300ms ease;
 }
 
 .event-style2 .item .post-meta{
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   border-top: 1px solid #f4f4f4;
   padding: 17px 19px;
@@ -3504,7 +3504,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .event-style2 .item .lower-content .default_link:hover {
   transition: .5s ease;
-  color: #8dc63f;
+  color: #509148;
 }
 .event-style2 .item .lower-content .default_link i {
   font-size: 11px;
@@ -3557,7 +3557,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     vertical-align: middle;
 }
 .event-style2 .item .img-holder .overlay .box .content a i {
-    background: #8dc63f;
+    background: #509148;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -3569,7 +3569,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style2 .item .img-holder .overlay .box .content a:hover i {
-    background: #8dc63f;
+    background: #509148;
 }
 
 
@@ -3600,7 +3600,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-style2 .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -3646,7 +3646,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   right: 15px;
   top: 15px;
   width: 55px;
-  background: #8dc63f;
+  background: #509148;
   font-size: 18px;
   font-weight: 700;
   line-height: 27px;
@@ -3658,7 +3658,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .event-section .item .date span {
   display: block;
-  color: #8dc63f;
+  color: #509148;
   background: #fff;
   margin-top: 5px;
   padding: 6px 0;
@@ -3683,12 +3683,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-section .item .lower-content h4 a:hover{
-  color:#8dc63f;
+  color:#509148;
   transition: all 300ms ease;
 }
 
 .event-section .item .lower-content .post-meta{
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   margin-bottom: 7px;
 }
@@ -3705,7 +3705,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .event-section .item .lower-content .default_link:hover {
   transition: .5s ease;
-  color: #8dc63f;
+  color: #509148;
 }
 .event-section .item .lower-content .default_link i {
   font-size: 11px;
@@ -3761,7 +3761,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     vertical-align: middle;
 }
 .event-section .item .img-holder .overlay .box .content a i {
-    background: #8dc63f;
+    background: #509148;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -3773,7 +3773,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-section .item .img-holder .overlay .box .content a:hover i {
-    background: #8dc63f;
+    background: #509148;
 }
 
 
@@ -3804,7 +3804,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .event-section .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -3833,13 +3833,13 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   width: 70px;
   font-size: 18px;
   border-radius: 50%;
-  border: 2px solid #8dc63f;
+  border: 2px solid #509148;
   background: #ffffff;
   font-weight: 700;
   font-family: 'Roboto Slab', serif;
   line-height: 14px;
   padding-top: 13px;
-  color: #8dc63f;
+  color: #509148;
   text-align: center;
 }
 
@@ -4038,7 +4038,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .testimonials-section .author h4 span {
-  color: #8dc63f;
+  color: #509148;
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -4072,8 +4072,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .testimonials-section .owl-dots .owl-dot.active span,
 .testimonials-section .owl-dots .owl-dot:hover span {
-    background-color: #8dc63f;
-    border-color: #8dc63f;
+    background-color: #509148;
+    border-color: #509148;
     -webkit-transition: .5s ease;
     transition: .5s ease;
 }
@@ -4128,7 +4128,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 5px;
 }
 .testimonial2 .author p {
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -4185,7 +4185,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     height: 2px;
     position: absolute;
     content: "";
-    background: #8dc63f;
+    background: #509148;
     left: 0;
     bottom: 0;
     transform: scaleX(0);
@@ -4200,7 +4200,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   position: absolute;
   left: 0px;
   top: -15px;
-  background: #8dc63f;
+  background: #509148;
   line-height: 20px;
   padding: 5px 15px;
   z-index: 9;
@@ -4223,7 +4223,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .default-blog-news .lower-content h4:hover{
-  color:#8dc63f;
+  color:#509148;
   transition: all 300ms ease;
 }
 
@@ -4242,7 +4242,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .default-blog-news .lower-content .default_link:hover {
   transition: .5s ease;
-  color: #8dc63f;
+  color: #509148;
 }
 .default-blog-news .lower-content .default_link i {
   font-size: 11px;
@@ -4296,7 +4296,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     vertical-align: middle;
 }
 .default-blog-news .img-holder .overlay .box .content a i {
-    background: #8dc63f;
+    background: #509148;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -4308,7 +4308,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .default-blog-news .img-holder .overlay .box .content a:hover i {
-    background: #8dc63f;
+    background: #509148;
 }
 
 /*blog-large news*/
@@ -4372,7 +4372,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   height:100%;
   position: absolute;
   top:0;
-  background: #8dc63f;
+  background: #509148;
   right:0;
   color:#fff;
 }
@@ -4401,7 +4401,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   display: block;
 }
 .blog-sidebar .category-style-one ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -4483,7 +4483,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .blog-sidebar .popular-post .item h4:hover{
-  color: #8dc63f;
+  color: #509148;
   -webkit-transition: .5s ease;
   transition: .5s ease;
 }
@@ -4501,7 +4501,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .blog-sidebar .popular-post .item .post-info i {
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
   margin-right: 6px;
   top: -1px;
@@ -4543,7 +4543,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .blog-sidebar .event-section2 .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -4651,7 +4651,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   outline: none !important;
 }
 .sidebar-archive  .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
-  background-color: #8dc63f;
+  background-color: #509148;
   color: #fff;
 }
 .sidebar-archive .form-control:focus {
@@ -4771,7 +4771,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 18px;
 }
 .blog-single-post .author-comment p.a-title {
-  color: #8dc63f;
+  color: #509148;
   font-size: 16px;
 }
 
@@ -4792,7 +4792,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   color: #3F3E3E;
 }
 .share-box .tag-box a {
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   transition: .3s ease;
   line-height: 30px;
@@ -4800,7 +4800,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-family: 'Open Sans', sans-serif;
 }
 .share-box .tag-box a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .3s ease;
 }
 
@@ -4834,8 +4834,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .share-box .social a:hover {
   color: #ffffff;
-  background: #8dc63f;
-  border-color: #8dc63f;
+  background: #509148;
+  border-color: #509148;
 }
 
 
@@ -4900,7 +4900,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .5s ease;
 }
 .post-author ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -4937,7 +4937,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-right: 3px;
 }
 .single-comment .rating i {
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
 }
 
@@ -4986,7 +4986,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .feedback .rating.active li i,
 .feedback .rating:hover i{
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -5018,7 +5018,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 14px;
 }
 .feature .list-style-1 li i {
-  color: #8dc63f;
+  color: #509148;
   margin-right: 20px;
 }
 
@@ -5041,10 +5041,10 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 10px;
 }
 .clients-section .tooltip-inner {
-  background: #8dc63f;
+  background: #509148;
 }
 .clients-section .tooltip.top .tooltip-arrow {
-  border-top-color: #8dc63f;
+  border-top-color: #509148;
 }
 
 .clients-section .owl-carousel .owl-stage-outer {
@@ -5092,7 +5092,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .clients-section .owl-theme .owl-nav [class*=owl-]:hover {
-    color: #8dc63f;
+    color: #509148;
     transition: .5s ease;
 }
 
@@ -5151,7 +5151,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .about-column li span {
   font-size: 18px;
-  color: #8dc63f;
+  color: #509148;
   position: absolute;
   left: 0;
   top: 6px;
@@ -5176,7 +5176,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .main-footer .link-column li a:hover{
-  color: #8dc63f;
+  color: #509148;
 }
 
 .main-footer .link-column li a:before {
@@ -5192,7 +5192,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 } 
 
 .main-footer .link-column li a:hover:before{
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease-in-out;
 }
 
@@ -5208,7 +5208,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     transition: .5s ease-in-out;
 }
 .main-footer .link-column li a:hover:after {
-  background-color: #8dc63f;
+  background-color: #509148;
   transition: .5s ease;
 }
 
@@ -5243,7 +5243,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .main-footer .post-column .post-info {
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
 }
 
@@ -5280,7 +5280,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   height: 42px;
   width: 40px;
   line-height: 42px;
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
 }
 
@@ -5307,12 +5307,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 14px;
 }
 .footer-bottom .copy-text a {
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
 }
 
 .footer-bottom a {
-  color: #8dc63f;
+  color: #509148;
   font-size: 16px;
   transition: .3s ease;
 }
@@ -5372,7 +5372,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #8dc63f;
+  color: #509148;
 }
 .breadcumb-wrapper ul.link-list li a {
   color: #222;
@@ -5398,12 +5398,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .breadcumb-wrapper a.get-qoute {
   text-transform: uppercase;
   font-weight: 700;
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
 }
 .breadcumb-wrapper a.get-qoute i {
   margin-left: 7px;
-  color: #8dc63f;
+  color: #509148;
   margin-right: 7px;
   font-size: 14px;
 }
@@ -5431,7 +5431,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .our-mission2 h3 {
   background: #fff;
-  color: #8dc63f;
+  color: #509148;
   border: 1px solid #f4f4f4;
   width: 65px;
   text-align: center;
@@ -5587,7 +5587,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .single-team-member p {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
   margin-bottom: 8px;
 }
@@ -5603,7 +5603,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .single-team-member .author-info ul li i {
   font-size: 14px;
   margin-right: 10px;
-  color: #8dc63f;
+  color: #509148;
   border-radius: 1px;
   height: 15px;
   width: 15px;
@@ -5767,7 +5767,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     padding-bottom: 33px;
 }
 .get-touch-area .single-item .icon-holder span:before {
-    color: #8dc63f;
+    color: #509148;
     font-size: 50px;
 }
 .get-touch-area .single-item .text-holder {}
@@ -5787,7 +5787,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     margin: 15px 0 0;
 }
 .get-touch-area .single-item .text-holder p a{
-    color: #8dc63f;
+    color: #509148;
 }
 
 
@@ -5843,7 +5843,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     margin: 0 0 10px;
 }
 .contact-form-area .form-right-box span {
-    color: #8dc63f;
+    color: #509148;
 }
 .contact-form-area .form-right-box p {
     margin: 9px 0 5px;
@@ -5870,7 +5870,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     transition: all 500ms ease;
 }
 .contact-form-area .form-right-box .social-links li a:hover i{
-    color: #8dc63f;
+    color: #509148;
 }
 
 
@@ -5904,8 +5904,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding: 5px;
 }
 #ui-datepicker-div.ui-datepicker .ui-datepicker-header {
-  background: #8dc63f none repeat scroll 0 0;
-  border: 2px solid #8dc63f;
+  background: #509148 none repeat scroll 0 0;
+  border: 2px solid #509148;
   border-radius: 0;
   color: #fff;
   font-weight: 700;
@@ -5965,9 +5965,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .ui-datepicker-calendar .ui-state-default:hover,
 .ui-datepicker-calendar .ui-state-default:active{
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .default-form.style-5 .form-group i {
@@ -6023,10 +6023,10 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .event-filter .tab-buttons li.active-btn:after {
-  background: #8dc63f;
+  background: #509148;
 }
 .event-filter .tab-buttons li.active-btn:before {
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 
@@ -6082,7 +6082,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-bottom: 0px;
 }
 .single-event .event-timeline li i {
-  color: #8dc63f;
+  color: #509148;
   margin-right: 10px;
 }
 .single-event .event-timeline li b {
@@ -6099,7 +6099,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .single-event .list2 li i {
   padding-right: 10px;
-  color: #8dc63f;
+  color: #509148;
 }
 
 .single-event .donator .caption {
@@ -6111,7 +6111,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 16px;
 }
 .single-event .donator .caption p {
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -6132,7 +6132,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   color: #3F3E3E;
 }
 .single-event .share .tag-box a {
-  color: #8dc63f;
+  color: #509148;
   font-size: 15px;
   transition: .3s ease;
   line-height: 30px;
@@ -6140,7 +6140,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-family: 'Open Sans', sans-serif;
 }
 .single-event .share .tag-box a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .3s ease;
 }
 
@@ -6174,8 +6174,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .single-event .share .social a:hover {
   color: #ffffff;
-  background: #8dc63f;
-  border-color: #8dc63f;
+  background: #509148;
+  border-color: #509148;
 }
 
 
@@ -6213,7 +6213,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     border-radius: 50%;
     text-align: center;
     margin: 0 10px;
-    border: 2px solid #8dc63f;
+    border: 2px solid #509148;
     line-height: 24px;
     padding-top: 20px;
 }
@@ -6281,10 +6281,10 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 
 .event-tab .tab-buttons li.active-btn:after {
-  background: #8dc63f;
+  background: #509148;
 }
 .event-tab .tab-buttons li.active-btn:before {
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 
@@ -6401,7 +6401,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .cart-table tbody tr .sub-total {
   font-weight: 400;
-  color: #8dc63f;
+  color: #509148;
 }
 
 .cart-table tbody tr .remove-btn {
@@ -6422,7 +6422,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .cart-table tbody tr .remove-btn:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 .cart-table tbody tr .remove-btn span:before {
@@ -6465,7 +6465,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   text-align: center;
   font-size: 18px;
   color: #fff;
-  background: #8dc63f;
+  background: #509148;
   border-radius: 50%;
 }
 
@@ -6484,7 +6484,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 10px;
 }
 .cart-section .cart-table .bootstrap-touchspin .input-group-btn-vertical i:hover {
-  color: #8dc63f;
+  color: #509148;
 }
 .cart-table tbody tr .qty .quantity-spinner {
   background: #fff;
@@ -6592,16 +6592,16 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .cart-section .estimate-form .select-box .dropdown-menu > li > a {
   padding: 8px 15px;
-  color: #8dc63f;
+  color: #509148;
   transition: all .3s ease;
 }
 .cart-section .estimate-form .select-box .bootstrap-select.btn-group .dropdown-menu li a:hover span.text {
-  color: #8dc63f;
+  color: #509148;
   transition: all .3s ease;
 }
 .cart-section .estimate-form .select-box .bootstrap-select.btn-group .dropdown-menu li a span.text {
   font-size: 13px;
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -6683,7 +6683,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .cart-section .thm-btn.update-cart:hover {
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
 }
 
@@ -6725,7 +6725,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   left: 0;
   width: 2px;
   height: 100%;
-  background: #8dc63f;
+  background: #509148;
   content: "";
 }
 .checkout-area .exisitng-customer h5{
@@ -6734,7 +6734,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-weight: 300;
 }
 .checkout-area .exisitng-customer h5 a{
-  color: #8dc63f;
+  color: #509148;
   display: inline-block;
   padding-left: 15px;
 }
@@ -6752,7 +6752,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   left: 0;
   width: 2px;
   height: 100%;
-  background: #8dc63f;
+  background: #509148;
   content: "";
 }
 .checkout-area .coupon h5 {
@@ -6761,7 +6761,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-weight: 300;  
 }
 .checkout-area .coupon h5 a {
-  color: #8dc63f;
+  color: #509148;
   display: inline-block;
   padding-left: 15px;
 }
@@ -6791,13 +6791,13 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   -o-transition: all 500ms ease;
 }
 .checkout-area .form form .field-input input[type="text"]:focus{
-  border: 2px solid #8dc63f;
+  border: 2px solid #509148;
 }
 .checkout-area .create-acc .checkbox {
   margin: 7px 0 0;
 }
 .checkout-area .create-acc .checkbox label {
-  color: #8dc63f;
+  color: #509148;
   font-weight: 300;
   font-size: 16px;
 }
@@ -6830,7 +6830,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   -o-transition: all 500ms ease;
 }
 .checkout-area .form form .field-input textarea:focus{
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .checkout-area .bottom {
@@ -6932,8 +6932,8 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   border-radius: 0
 }
 .checkout-area .table .cart-table tbody tr .qty .btn-default {
-  background-color: #8dc63f;
-  border-color: #8dc63f;
+  background-color: #509148;
+  border-color: #509148;
   color: #fff;
 }
 .checkout-area .table .cart-table tbody tr .qty .bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-down {
@@ -6941,7 +6941,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-top: -2px;
 }
 .checkout-area .table .cart-table tbody tr td.price {
-  color: #8dc63f;
+  color: #509148;
   font-size: 16px;
   font-weight: 300;
 }
@@ -6985,7 +6985,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   width: 50%;
 }
 .cart-total-table li span.col b {
-  color: #8dc63f;
+  color: #509148;
   font-weight: 300;
   text-decoration: underline;
 }
@@ -7020,7 +7020,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   font-size: 16px;
 }
 .cart-total .payment-options .option-block .checkbox label span b {
-  color: #8dc63f;
+  color: #509148;
   display: inline-block;
   font-size: 16px;
   font-weight: 300;
@@ -7157,7 +7157,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: .7s ease;
 }
 .single-shop-item .content-box a.cart-btn:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .7s ease;
 }
 .single-shop-item .content-box a.cart-btn:before {
@@ -7172,7 +7172,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     transition: .5s ease-in-out;
 }
 .single-shop-item .content-box a.cart-btn:hover:before {
-  background-color: #8dc63f;
+  background-color: #509148;
 }
 .single-shop-item .content-box a.cart-btn i {
   margin-right: 6px;
@@ -7212,7 +7212,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 
 .single-shop-item .content-box .rating{
   font-size: 13px;
-  color: #8dc63f;
+  color: #509148;
   right: 5px;
   top: 3px;
   position: relative;
@@ -7221,7 +7221,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .single-shop-item .content-box .item-price{
   font-size: 16px;
   font-weight: 400;
-  color: #8dc63f;
+  color: #509148;
   line-height:24px;
 }
 .single-shop-item .content-box .item-price del{
@@ -7261,7 +7261,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   height:100%;
   position: absolute;
   top:0;
-  background: #8dc63f;
+  background: #509148;
   right:0;
   color:#fff;
 }
@@ -7300,7 +7300,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     content: "\f00c";
 }
 .sidebar_categories ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
 }
 .recent_news_sidebar .theme_title {
   margin-bottom: 40px;
@@ -7404,7 +7404,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding-right: 20px;
 }
 .sidebar_tags ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -7421,7 +7421,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   border: 2px solid #222;
   margin-left: -4px;
   outline: none;
-  background: #8dc63f;
+  background: #509148;
 }
 .single-sidebar.price-ranger .ui-slider .ui-slider-range {
   background: #252525;
@@ -7450,9 +7450,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-right: 37px;
   color: #ffffff;
   font-weight: 700;
-  background: #8dc63f;
+  background: #509148;
   text-transform: uppercase;
-  border: 2px solid #8dc63f;
+  border: 2px solid #509148;
 }
 .single-sidebar.price-ranger .ranger-min-max-block input[type='text'] {
   border: none;
@@ -7491,12 +7491,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-right:3px;
   font-size: 12px;
   margin-top: 10px;
-  color: #8dc63f;
+  color: #509148;
 }
 .best_sellers .best_selling_item .text span {
   display: block;
   margin-top: 10px;
-  color: #8dc63f;
+  color: #509148;
   font-size: 16px;
   font-weight: 400;
   font-family: 'Roboto';
@@ -7609,12 +7609,12 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   padding-right: 1px;
 }
 .product-content-box .content-box .review-box ul li i {
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
 }
 
 .product-content-box .content-box span.price {
-  color: #8dc63f;
+  color: #509148;
   font-size: 22px;
 }
 .product-content-box .content-box .text {
@@ -7640,7 +7640,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: all 500ms ease;
 }
 .product-content-box .content-box .location-box form input:focus{
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 .product-content-box .content-box .location-box form button {
   background: #f7f7f7 none repeat scroll 0 0;
@@ -7660,11 +7660,11 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: all 500ms ease;
 }
 .product-content-box .content-box .location-box form button:hover{
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
 }
 .product-content-box .content-box .location-box form span {
-  color: #8dc63f;
+  color: #509148;
 }
 
 
@@ -7757,9 +7757,9 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   transition: all 500ms ease;
 }
 .product-tab-box .tab-menu li.active a, .product-tab-box .tab-menu li:hover a{
-  background: #8dc63f;
+  background: #509148;
   color: #fff;
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .product-tab-box .tab-content {
@@ -7796,7 +7796,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   margin-right: 3px;
 }
 .single-review-box .text-holder .top .review-box ul li i {
-  color: #8dc63f;
+  color: #509148;
   font-size: 14px;
 }
 .single-review-box .text-holder .top .review-date {
@@ -7878,7 +7878,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 .review-form .add-rating-box ul li.active a i,
 .review-form .add-rating-box ul li a:hover i{
-  color: #8dc63f;
+  color: #509148;
 }
 
 .review-form form input[type="text"], .product-tab-box .tab-content .review-form form textarea {
@@ -7901,10 +7901,10 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   opacity: 1;
 }
 .review-form form input[type="text"]:focus{
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 .review-form form textarea:focus{
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .related-product {
@@ -8085,7 +8085,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 .styled-form input:focus,
 .styled-form select:focus,
 .styled-form textarea:focus{
-  border-color: #8dc63f;
+  border-color: #509148;
 }
 
 .styled-form .form-group .theme-btn{
@@ -8156,7 +8156,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
   display: block;
 }
 .shop-sidebar .category-style-one ul li a:hover {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -8206,7 +8206,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
     vertical-align: middle;
 }
 .single-shop-item .img-box .overlay .box .content a i {
-    background: #8dc63f;
+    background: #509148;
     border-radius: 50%;
     color: #ffffff;
     display: inline-block;
@@ -8218,7 +8218,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .single-shop-item .img-box .overlay .box .content a:hover i {
-    background: #8dc63f;
+    background: #509148;
 }
 
 
@@ -8301,7 +8301,7 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .not-found-content .search-form button {
-  background: #8dc63f none repeat scroll 0 0;
+  background: #509148 none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   display: inline-block;
@@ -8321,14 +8321,14 @@ input,textarea {font-family: 'Open Sans', sans-serif;display: block; font-size: 
 }
 
 .not-found-content .search-form input[type="text"]:focus {
-  border: 1px solid #8dc63f;
+  border: 1px solid #509148;
   background: #fff;
   color: #000;
 }
 
 .not-found-content .search-form input[type="text"]:focus + button, 
 .not-found-content .search-form button:hover {
-  background: #8dc63f none repeat scroll 0 0;
+  background: #509148 none repeat scroll 0 0;
   color: #fff;
 }
 
@@ -8367,7 +8367,7 @@ article.slide-item.center {}
 }
 
 .testimonials-section2 .slide-item:hover .slide-text span {
-  color: #8dc63f;
+  color: #509148;
   transition: .5s ease;
 }
 
@@ -8416,7 +8416,7 @@ article.slide-item.center {}
 
 
 .testimonials-section2 .author p {
-  color: #8dc63f;
+  color: #509148;
 }
 
 

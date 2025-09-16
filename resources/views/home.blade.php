@@ -1,0 +1,234 @@
+<x-layouts.app>
+    <section class="rev_slider_wrapper">
+    <div id="slider1" class="rev_slider"  data-version="5.0">
+        <ul>
+            <li data-transition="fade">
+                <img src="images/slider/1.jpg"  alt="" width="1920" height="888" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="15" 
+                    data-y="top" data-voffset="260" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                    <div class="slide-content-box">
+                        <h1>Let’s<span>... go With ECO green</span></h1>
+                        <h3>to get our global clean</h3>
+                        <p>Great explorer of the truth, the master-builder of human happiness <br>not know how to pursue pleasure rationally...  </p>
+                    </div>
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="15" 
+                    data-y="top" data-voffset="480" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                    <div class="slide-content-box">
+                        <div class="button">
+                            <a class="thm-btn" href="#">read more</a>     
+                        </div>
+                    </div>
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="200" 
+                    data-y="top" data-voffset="480" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                    <div class="slide-content-box">
+                        <div class="button">
+                            <a class="thm-btn style-3" href="cause.html">Get Involved</a>     
+                        </div>
+                    </div>
+                </div>
+            </li>
+            
+            <li data-transition="fade">
+                <img src="images/slider/3.jpg"  alt="" width="1920" height="888" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
+                
+                <div class="tp-caption  tp-resizeme" 
+                    data-x="left" data-hoffset="500" 
+                    data-y="top" data-voffset="260" 
+                    data-transform_idle="o:1;"         
+                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
+                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-splitin="none" 
+                    data-splitout="none"
+                    data-responsive_offset="on"
+                    data-start="700">
+                    <div class="slide-content-box">
+                        <h1>Save<span>...World By Planting</span></h1>
+                        <h3>trees Your Surrounding</h3>
+                        <p>Great explorer of the truth, the master-builder of human happiness <br>not know how to pursue pleasure rationally...  </p>
+                    </div>
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="500" 
+                    data-y="top" data-voffset="480" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2300">
+                    <div class="slide-content-box">
+                        <div class="button">
+                            <a class="thm-btn" href="#">read more</a>     
+                        </div>
+                    </div>
+                </div>
+                <div class="tp-caption tp-resizeme" 
+                    data-x="left" data-hoffset="700" 
+                    data-y="top" data-voffset="480" 
+                    data-transform_idle="o:1;"                         
+                    data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" 
+                    data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"                     
+                    data-splitin="none" 
+                    data-splitout="none" 
+                    data-responsive_offset="on"
+                    data-start="2600">
+                    <div class="slide-content-box">
+                        <div class="button">
+                            <a class="thm-btn style-3" href="cause.html">Get Involved</a>     
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section class="about sec-padd2">
+    <div class="container">
+        <div class="section-title center">
+            <h2>Who we are</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-sm-12">
+                <figure class="img-box">
+                    <img src="images/resource/8.jpg" alt="">
+                </figure>
+            </div>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="content">
+                    <h2>Together we can make a difference</h2>
+                    <div class="text">
+                        <p>When you give to Our Ecogreen, you know your donation is making a difference. Whether you are supporting one of our Signature Programs or our carefully curated list of Gifts That Give More, our professional staff works hard every day <br>to ensure every dollar has impact for the cause of your choice. </p>
+                    </div>
+                    <h4>Our Partner</h4>
+                    <div class="text">
+                        <p>We partner with over 320 amazing projects worldwide, and have given over $150 million in cash and product grants to other groups since 2011. We also operate our own dynamic suite of Signature Programs.</p>
+                    </div>
+                    <div class="link"><a href="#" class="thm-btn style-2">Join With Us</a></div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</section>
+
+<section class="about sec-padd2">
+  <div class="container">
+      <div class="section-title center">
+            <h2>Our Expertise</h2>
+        </div>
+    <div class="row ">
+      <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card offering-card h-100">
+          <img src="https://enkingint.org/wp-content/uploads/2022/08/bg-img-2-1536x1024.png" class="card-img-top offering-img" alt="Sustainability & Net Zero Services">
+          <div class="card-body d-flex flex-column">
+            <h4 class="card-title">Sustainability & Net Zero Services</h4>
+            <p class="card-text">We champion sustainability solutions like no other. Our services range across Carbon footprints, CDP rating, Climate Change Services, Sustainability and ESG services, Sustainable supply chain services, and Green certification & resource efficiency services.</p>
+            <a href="#" class="btn btn-primary mt-auto">Know More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 2 -->
+      <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card offering-card h-100">
+          <img src="https://enkingint.org/wp-content/uploads/2022/08/bg-image-1-1536x864.png" class="card-img-top offering-img" alt="Climate Investments">
+          <div class="card-body d-flex flex-column">
+            <h4 class="card-title">Climate Investments</h4>
+            <p class="card-text">We have a strong focus on community development and nature restoration projects which also enable the generation of high-quality carbon credits with enhanced energy access and resilient ecosystems.</p>
+            <a href="#" class="btn btn-primary mt-auto">Know More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 3 -->
+      <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card offering-card h-100">
+          <img src="https://enkingint.org/wp-content/uploads/2022/06/environment.jpg" class="card-img-top offering-img" alt="Offsetting to achieve Carbon Neutrality">
+          <div class="card-body d-flex flex-column">
+            <h4 class="card-title">Offsetting to achieve Carbon Neutrality</h4>
+            <p class="card-text">We cater for projects across a realm of services including plastic waste management, green hydrogen and green ammonia, green steel, transportation energy efficiency & modal-shift, green mobility and metal recycling, amongst others.</p>
+            <a href="#" class="btn btn-primary mt-auto">Know More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 4 -->
+      <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card offering-card h-100">
+          <img src="https://enkingint.org/wp-content/uploads/2023/02/Investor-Relations.jpg" class="card-img-top offering-img" alt="Offsets Portfolio Management Services">
+          <div class="card-body d-flex flex-column">
+            <h4 class="card-title">Offsets Portfolio Management Services</h4>
+            <p class="card-text">Our team of climate experts ensure end-to-end carbon project life cycle management so organizations understand climate nuances seamlessly and get accredited for high quality carbon credits.</p>
+            <a href="#" class="btn btn-primary mt-auto">Know More</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card 5 -->
+      <div class="col-12 col-md-6 col-lg-4 col-xl-3">
+        <div class="card offering-card h-100">
+          <img src="https://enkingint.org/wp-content/uploads/2022/12/Portfolio-Management.jpg" class="card-img-top offering-img" alt="Carbon Markets Capacity Building Advisory">
+          <div class="card-body d-flex flex-column">
+            <h4 class="card-title">Carbon Markets Capacity Building Advisory</h4>
+            <p class="card-text">We are a leading carbon credit developer and supplier globally. We enable organizations to understand markets, handle regulations, training & advisory for building capacity in carbon markets globally.</p>
+            <a href="#" class="btn btn-primary mt-auto">Know More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<style scoped>
+    .offering-card {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      padding: 2rem;
+    }
+    .offering-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+    .offering-img {
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .card-title{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .card-text{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+</style>
+</x-layouts.app>

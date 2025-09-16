@@ -48,7 +48,7 @@
 // Prealoder
 function handlePreloader() {
 	if($('.preloader').length){
-		$('.preloader').delay(200).fadeOut(500);
+		$('.preloader').delay(100).fadeOut(500);
 	}
 }
 
@@ -327,7 +327,7 @@ function videopopup() {
 	$('.gallery_video').each(function() { // the containers for all your galleries
 	    $(this).magnificPopup({
 	        delegate: 'a', // the selector for gallery item
-	        disableOn: 700,
+	        disableOn: 100,
 	        type: 'iframe',
 	        mainClass: 'mfp-fade',
 	        removalDelay: 160,
