@@ -886,6 +886,4 @@ jQuery(window).scroll(function () {
 
 
 
-
-
 })(window.jQuery);

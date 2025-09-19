@@ -8427,6 +8427,52 @@ article.slide-item.center {}
 }
 
 
+/* WhatsApp floating button - drop into global CSS */
+.whatsapp-float {
+  --wa-size: 56px;            /* diameter */
+  --wa-right: 20px;          /* distance from right edge */
+  --wa-bottom: 80px;         /* distance from bottom */
+  --wa-bg: #ffffff;          /* whatsapp green */
+  --wa-shadow: 0 6px 18px rgba(0,0,0,0.18);
+
+  position: fixed;
+  right: var(--wa-right);
+  bottom: var(--wa-bottom);
+  width: var(--wa-size);
+  height: var(--wa-size);
+  border-radius: 999px;
+  background: var(--wa-bg);
+  display: inline-grid;
+  place-items: center;
+  box-shadow: var(--wa-shadow);
+  z-index: 9999;
+  text-decoration: none;
+  transition: transform .12s ease, box-shadow .12s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* make SVG scale and centered */
+.whatsapp-float svg {
+  width: 56%;
+  height: 56%;
+  display: block;
+}
+
+/* hover and focus states */
+.whatsapp-float:hover,
+.whatsapp-float:focus {
+  transform: translateY(-4px) scale(1.03);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.22);
+  outline: none;
+}
+
+/* small-screen tweaks */
+@media (max-width: 420px) {
+  .whatsapp-float { --wa-size: 48px; --wa-right: 14px; --wa-bottom: 16px; }
+}
+
+/* optional: hide where not needed */
+.whatsapp-float.hidden { display: none !important; }
 
 
 /* Margin */
