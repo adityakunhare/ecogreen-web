@@ -14,11 +14,11 @@
         </div> --}}
         <div class="row">
             <div class="col-md-6 col-sm-12">
-                <img src="https://plus.unsplash.com/premium_photo-1728417202003-d746a7fded79?q=80&w=1075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="570" height="350" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen autoplay></img>
+                <img src="https://plus.unsplash.com/premium_photo-1728417202003-d746a7fded79?q=80&w=1075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="570" height="350"/>
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="content">
-                    <h2>Why Buy With US?</h2>
+                    <h2 class="heading">Why Buy With US?</h2>
 
                     <h4>Business Imperative & Market Opportunity</h4>
                     <div class="text">
@@ -268,4 +268,13 @@ Navigating these rules and monetizing carbon and green finance avenues requires 
         </div>
     </div>
 </section>
+
+<style scoped>
+       @media only screen and (max-width: 768px) {
+        .heading {
+            margin-top: 20px;
+        }
+    } 
+</style>
+
 </x-layouts.app>

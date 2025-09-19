@@ -217,7 +217,7 @@
 </section>
 
     <!-- Scroll Top  -->
-    <button class="scroll-top tran3s color2_bg"><span class="fa fa-angle-up"></span></button>
+    {{-- <button class="scroll-top tran3s color2_bg"><span class="fa fa-angle-up"></span></button> --}}
     <!-- preloader  -->
     <div class="preloader"></div>
     <div id="donate-popup" class="donate-popup">
@@ -274,7 +274,7 @@
 
     
 (function(){
-  const phone = "PHONENUMBER"; // replace
+  const phone = "447708155119"; // replace
   const defaultMsg = encodeURIComponent("Hello"); // change default message
   const waEl = document.getElementById('whatsappFloating');
   if(!waEl) return;
