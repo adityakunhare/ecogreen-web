@@ -7,12 +7,14 @@
         </div>
     </div>        
     
-        <section class="get-touch-area">
-                <div class="container">
-                    <div class="sec-title text-center">
-                        <h1>All about us</h1>
-                        <span class="border"></span>
-
+    <section class="blog-single-post blog-section">
+    <div class="container">
+        <div class="row">
+            <div class=" col-sm-12">
+                <div class="post-area">
+                    <div class="content-box">
+                        <h2>All about us</h2>
+                        <div class="text">
                         <p class="pb-2">
                         <b>SSK GREEN under guidance of EKI Energy Services Ltd. (EKI)</b> – previously recognized as EnKing International – is a pioneer in the global climate sector and a leading developer and supplier of carbon credits worldwide. EKI which is Headquartered in Indore, the company is proudly listed on the Bombay Stock Exchange (BSE).
                         </p>
@@ -22,10 +24,14 @@
 
                         <p class="pb-2">EKI is committed to becoming a net-zero organization by 2030 and has set an ambitious target of mobilizing up to 1 billion carbon credits by 2027. In line with this vision, the company has also adopted a renewed brand identity symbolizing its mission to unite the sky, land, and oceans in steering the planet towards a carbon-neutral future.</p>
                         <p class="pb-2">A notable achievement for EKI is being the first Indian company to register a plastic project with Verra – the globally recognized accreditation body based in Washington, USA. Beyond this, the company champions community-driven initiatives such as green cooking projects with energy-efficient cookstoves for rural households and nature-based solutions (NBS) to foster large-scale climate action.</p>
-
+                        </div>
+                        
                     </div>
-                    
                 </div>
-            </section>
+            </div>
+        </div>
+    </div>
+</section> 
+        
     </div>
 </x-layouts.app>

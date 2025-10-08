@@ -9,9 +9,9 @@
                     data-x="left" data-hoffset="15" 
                     data-y="top" data-voffset="300" 
                     data-transform_idle="o:1;"         
-                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_in="x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
                     data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
-                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-mask_in="x:[-100%];y:0;s:inherit;e:inherit;" 
                     data-splitin="none" 
                     data-splitout="none"
                     data-responsive_offset="on"
@@ -58,9 +58,9 @@
                     data-x="left" data-hoffset="100" 
                     data-y="top" data-voffset="260" 
                     data-transform_idle="o:1;"         
-                    data-transform_in="x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
+                    data-transform_in="x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0.01;s:3000;e:Power3.easeOut;" 
                     data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;" 
-                    data-mask_in="x:[100%];y:0;s:inherit;e:inherit;" 
+                    data-mask_in="x:[-100%];y:0;s:inherit;e:inherit;" 
                     data-splitin="none" 
                     data-splitout="none"
                     data-responsive_offset="on"
@@ -101,6 +101,8 @@
             </li>
         </ul>
     </div>
+   
+
 </section>
 
 
@@ -198,8 +200,6 @@
 
     </div>
 </section>
-
-
 
 <section class="about sec-padd2">
   <div class="container">
