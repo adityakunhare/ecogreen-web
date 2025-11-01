@@ -16,6 +16,8 @@
     <link rel="apple-touch-icon" sizes="180x180" href="images/fav-icon/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="images/fav-icon/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="images/fav-icon/favicon-16x16.png" sizes="16x16">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
     
 
 </head>
@@ -27,8 +29,8 @@
     <div class="container">
         <div class="clearfix">
             <ul class="float_left top-bar-info">
-                <li><i class="icon-phone-call"></i>Phone: (+91) 99939 72000</li>
-                <li><i class="icon-e-mail-envelope"></i>hotelkanchantilak@gmail.com</li>
+                <li><i class="icon-phone-call"></i>Phone: (+971) 56 723 9585 </li>
+                <li><i class="icon-e-mail-envelope"></i>info@sskgreen.com</li>
             </ul>
             <div class="right-column float_right">
                 <ul class="social list_inline">
@@ -152,9 +154,9 @@
                                 <figure class="footer-logo"><a href="index.html"><img src="images/logo/logo.png" alt=""></a></figure>
                                 
                                 <ul class="contact-info">
-                                    <li><span class="icon-location"></span>585/2 M.G. Road, Near Tilak Square, Palasia, Indore-452001, Madhya Pradesh, India</li>
-                                    <li><span class="icon-phone-call"></span> Phone: +91-9993972000</li>
-                                    <li><span class="icon-note"></span>hotelkanchantilak@gmail.com</li>
+                                    <li><span class="icon-location"></span>Radisson, Dubailand Hessa St. - Al Hebiah, Third Damac Hills Dubai</li>
+                                    <li><span class="icon-phone-call"></span> Phone: (+971) 56 723 9585</li>
+                                    <li><span class="icon-note"></span>info@sskgreen.com</li>
                                 </ul>
                             </div>
                         </div>
